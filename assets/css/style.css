@@ -189,3 +189,15 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin: 100px;
 }
+
+.about_p {
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+}
+
+.text_container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
